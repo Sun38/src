@@ -1,4 +1,7 @@
 # 시스템 프로그래밍 기말 프로젝트
+
+## [★★★프로젝트 링크★★★]("http://ec2-54-180-29-25.ap-northeast-2.compute.amazonaws.com/") 
+
 ## 20185136 선민구
 ---
 ## 프로젝트명 : AWS를 활용하여 데이터베이스 서버를 구축하고 wordpress를 설치하여 블로그 만들기
@@ -295,6 +298,9 @@ sudo service httpd restart
 이를 통해 Amazon RDS 기반의 완전관리형 MySQL 데이터베이스를 사용하며 퍼블릭 액세스가 가능한 WordPress 사이트가 시작되었다.
 
 ## 5. 본격적으로 블로그 꾸미기
+
+## [★★★프로젝트 링크★★★]("http://ec2-54-180-29-25.ap-northeast-2.compute.amazonaws.com/") 
+
 먼저, Plugins의 Add new를 클릭한다.
 
 ![image](https://user-images.githubusercontent.com/68503646/102041511-01c63600-3e13-11eb-903a-a4ef11f477d6.png)
