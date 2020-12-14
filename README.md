@@ -10,6 +10,12 @@
 요즘 대세인 AWS를 한번 경험 삼아 사용하고 싶었고, 나만의 홈페이지를 만들고 싶었기도 해서, AWS로 서버를 구축하여 wordpress로 직접 홈페이지를 만들기로 했다.
 
 ---
+
+## 프로젝트 다이어그램
+
+![image](https://user-images.githubusercontent.com/68503646/102055259-ea487680-3e2d-11eb-996f-edecbfb327af.png)
+
+
 ## 프로젝트 상세 설명
 
 ## 1. RDS로 MySQL 데이터베이스를 생성
