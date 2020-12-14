@@ -1,6 +1,6 @@
 # 시스템 프로그래밍 기말 프로젝트
 
-## [★★★프로젝트 링크★★★]("http://ec2-54-180-29-25.ap-northeast-2.compute.amazonaws.com/") 
+[★★★프로젝트 링크★★★]("http://ec2-54-180-29-25.ap-northeast-2.compute.amazonaws.com/") 
 
 ## 20185136 선민구
 ---
@@ -299,7 +299,7 @@ sudo service httpd restart
 
 ## 5. 본격적으로 블로그 꾸미기
 
-## [★★★프로젝트 링크★★★]("http://ec2-54-180-29-25.ap-northeast-2.compute.amazonaws.com/") 
+[★★★프로젝트 링크★★★]("http://ec2-54-180-29-25.ap-northeast-2.compute.amazonaws.com/") 
 
 먼저, Plugins의 Add new를 클릭한다.
 
