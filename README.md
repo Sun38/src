@@ -359,13 +359,15 @@ wp-reset 플러그인 설치와 마찬가지로 Reblog 테마를 다운받아 Ac
 
 ![image](https://user-images.githubusercontent.com/68503646/102044149-92a01000-3e19-11eb-9885-dea1d62513d0.png)
 
-글을 새로 추가하여 포스트의 제목을 쓰고, Featured Image로 배경 이미지를 넣어주고, 상단의 Edit with Elementor를 클릭한다.
+글을 새로 추가하여 포스트의 제목을 쓰고, Featured Image로 대표 이미지를 넣어주고, 상단의 Edit with Elementor를 클릭한다.
 
-![image](https://user-images.githubusercontent.com/68503646/102044177-a0ee2c00-3e19-11eb-96d6-ce7a3b079fd3.png)
+![image](https://user-images.githubusercontent.com/68503646/102071973-9006e000-3e44-11eb-9d1e-13753dbdcf8f.png)
+
 
 원하는 템플릿을 설정해주고, 이미지와 글 등의 내용을 작성한다.
 
-![image](https://user-images.githubusercontent.com/68503646/102044196-ab102a80-3e19-11eb-8eaf-5d07176ad621.png)
+![image](https://user-images.githubusercontent.com/68503646/102072171-d65c3f00-3e44-11eb-8f77-202e079b32cc.png)
+
 
 좌측 하단의 Publish로 저장을 하고, 사이트에 재접속하면 다음과 같은 메인 화면이 나온다. 
 
